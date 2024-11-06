@@ -1,0 +1,7 @@
+fastapi
+chromadb==0.3.21
+sentence-transformers
+uvicorn
+pdfplumber
+python-docx
+pypika==0.48.0
